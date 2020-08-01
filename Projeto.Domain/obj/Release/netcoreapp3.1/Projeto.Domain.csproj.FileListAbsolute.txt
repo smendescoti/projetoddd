@@ -1,0 +1,9 @@
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite 02\Aula 30 - 30.07.2020\ProjetoDDD\Projeto.Domain\bin\Release\netcoreapp3.1\Projeto.Domain.deps.json
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite 02\Aula 30 - 30.07.2020\ProjetoDDD\Projeto.Domain\bin\Release\netcoreapp3.1\Projeto.Domain.dll
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite 02\Aula 30 - 30.07.2020\ProjetoDDD\Projeto.Domain\bin\Release\netcoreapp3.1\Projeto.Domain.pdb
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite 02\Aula 30 - 30.07.2020\ProjetoDDD\Projeto.Domain\obj\Release\netcoreapp3.1\Projeto.Domain.csprojAssemblyReference.cache
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite 02\Aula 30 - 30.07.2020\ProjetoDDD\Projeto.Domain\obj\Release\netcoreapp3.1\Projeto.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite 02\Aula 30 - 30.07.2020\ProjetoDDD\Projeto.Domain\obj\Release\netcoreapp3.1\Projeto.Domain.AssemblyInfoInputs.cache
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite 02\Aula 30 - 30.07.2020\ProjetoDDD\Projeto.Domain\obj\Release\netcoreapp3.1\Projeto.Domain.AssemblyInfo.cs
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite 02\Aula 30 - 30.07.2020\ProjetoDDD\Projeto.Domain\obj\Release\netcoreapp3.1\Projeto.Domain.dll
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite 02\Aula 30 - 30.07.2020\ProjetoDDD\Projeto.Domain\obj\Release\netcoreapp3.1\Projeto.Domain.pdb

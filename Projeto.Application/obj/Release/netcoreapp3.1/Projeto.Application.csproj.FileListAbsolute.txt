@@ -1,0 +1,12 @@
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite 02\Aula 30 - 30.07.2020\ProjetoDDD\Projeto.Application\bin\Release\netcoreapp3.1\Projeto.Application.deps.json
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite 02\Aula 30 - 30.07.2020\ProjetoDDD\Projeto.Application\bin\Release\netcoreapp3.1\Projeto.Application.dll
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite 02\Aula 30 - 30.07.2020\ProjetoDDD\Projeto.Application\bin\Release\netcoreapp3.1\Projeto.Application.pdb
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite 02\Aula 30 - 30.07.2020\ProjetoDDD\Projeto.Application\bin\Release\netcoreapp3.1\Projeto.Domain.dll
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite 02\Aula 30 - 30.07.2020\ProjetoDDD\Projeto.Application\bin\Release\netcoreapp3.1\Projeto.Domain.pdb
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite 02\Aula 30 - 30.07.2020\ProjetoDDD\Projeto.Application\obj\Release\netcoreapp3.1\Projeto.Application.csprojAssemblyReference.cache
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite 02\Aula 30 - 30.07.2020\ProjetoDDD\Projeto.Application\obj\Release\netcoreapp3.1\Projeto.Application.csproj.CoreCompileInputs.cache
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite 02\Aula 30 - 30.07.2020\ProjetoDDD\Projeto.Application\obj\Release\netcoreapp3.1\Projeto.Application.AssemblyInfoInputs.cache
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite 02\Aula 30 - 30.07.2020\ProjetoDDD\Projeto.Application\obj\Release\netcoreapp3.1\Projeto.Application.AssemblyInfo.cs
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite 02\Aula 30 - 30.07.2020\ProjetoDDD\Projeto.Application\obj\Release\netcoreapp3.1\Projeto.Application.csproj.CopyComplete
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite 02\Aula 30 - 30.07.2020\ProjetoDDD\Projeto.Application\obj\Release\netcoreapp3.1\Projeto.Application.dll
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite 02\Aula 30 - 30.07.2020\ProjetoDDD\Projeto.Application\obj\Release\netcoreapp3.1\Projeto.Application.pdb

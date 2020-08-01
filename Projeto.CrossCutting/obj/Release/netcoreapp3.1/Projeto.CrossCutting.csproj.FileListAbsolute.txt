@@ -1,0 +1,12 @@
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite 02\Aula 30 - 30.07.2020\ProjetoDDD\Projeto.CrossCutting\bin\Release\netcoreapp3.1\Projeto.CrossCutting.deps.json
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite 02\Aula 30 - 30.07.2020\ProjetoDDD\Projeto.CrossCutting\bin\Release\netcoreapp3.1\Projeto.CrossCutting.dll
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite 02\Aula 30 - 30.07.2020\ProjetoDDD\Projeto.CrossCutting\bin\Release\netcoreapp3.1\Projeto.CrossCutting.pdb
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite 02\Aula 30 - 30.07.2020\ProjetoDDD\Projeto.CrossCutting\bin\Release\netcoreapp3.1\Projeto.Domain.dll
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite 02\Aula 30 - 30.07.2020\ProjetoDDD\Projeto.CrossCutting\bin\Release\netcoreapp3.1\Projeto.Domain.pdb
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite 02\Aula 30 - 30.07.2020\ProjetoDDD\Projeto.CrossCutting\obj\Release\netcoreapp3.1\Projeto.CrossCutting.csprojAssemblyReference.cache
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite 02\Aula 30 - 30.07.2020\ProjetoDDD\Projeto.CrossCutting\obj\Release\netcoreapp3.1\Projeto.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite 02\Aula 30 - 30.07.2020\ProjetoDDD\Projeto.CrossCutting\obj\Release\netcoreapp3.1\Projeto.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite 02\Aula 30 - 30.07.2020\ProjetoDDD\Projeto.CrossCutting\obj\Release\netcoreapp3.1\Projeto.CrossCutting.AssemblyInfo.cs
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite 02\Aula 30 - 30.07.2020\ProjetoDDD\Projeto.CrossCutting\obj\Release\netcoreapp3.1\Projeto.CrossCutting.csproj.CopyComplete
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite 02\Aula 30 - 30.07.2020\ProjetoDDD\Projeto.CrossCutting\obj\Release\netcoreapp3.1\Projeto.CrossCutting.dll
+C:\Users\sergi\Desktop\Aulas EAD\C# .NET - SQS Noite 02\Aula 30 - 30.07.2020\ProjetoDDD\Projeto.CrossCutting\obj\Release\netcoreapp3.1\Projeto.CrossCutting.pdb
